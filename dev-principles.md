@@ -1,5 +1,6 @@
 # Development Principles & Standards
 > [from owenoak's oakjs project](https://github.com/oakjs/design/blob/master/design/principles.md)
+
 ---
 ## Architecture Principles
 
