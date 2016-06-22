@@ -7,7 +7,7 @@ var img;
 
 function setup() {
   createCanvas(INNER_WIDTH,INNER_HEIGHT);
-  background(134);
+  background(0);
   img = loadImage("images/2016_06-jaylab_03-2709.svg");
 }
 
