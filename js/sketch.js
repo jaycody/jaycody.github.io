@@ -16,3 +16,7 @@ function draw(){
   image(img,0,0,INNER_WIDTH, INNER_HEIGHT);
   
 }
+
+function mousePressed(){
+   window.open("http://jaylab.io/noc-js-1/02_forces/02_02_history_lines/", "_self");
+}
